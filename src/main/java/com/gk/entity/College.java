@@ -4,12 +4,8 @@ public class College {
 	public String CollegeName;
 	public String StuName;
 	public String address;
-<<<<<<< HEAD
-	public String name = "Navneet";
-=======
-        public String name="gk";
-
->>>>>>> 39447ed2b0cd54176f0de64a33e39f1e593fe6db
+	public String name = "Naveen";
+        public String name1 ="gk";
 	public String getCollegeName() {
 		return CollegeName;
 	}
