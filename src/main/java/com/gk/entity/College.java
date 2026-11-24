@@ -5,7 +5,7 @@ public class College {
 	public String StuName;
 	public String address;
 	public String name = "Naveen";
-        public String name1 ="gk";
+
 	public String getCollegeName() {
 		return CollegeName;
 	}
